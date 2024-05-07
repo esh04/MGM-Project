@@ -14,8 +14,8 @@ This repository contains our replication of the work described in the paper [**V
 - **text-speech-cap.wav**: Generated audio using the prompt "a female voice saying the word 'cap' in a clear, neutral tone," also with the negative prompt "low quality."
 
 - **/overlay**: Contains adapted code to create base and overlay images that can be superimposed to create particular images based on input text prompts.
-  - **requirements.txt**: Contains dependencies required to run
-  - 
+  - **requirements.txt**: Contains dependencies required to run MGM_Overlay-2.ipynb.
+  - **MGM_Overlay-2.ipynb**: General code to make the base and rotator images for overlay.
 
 
 ## Diffusion Models Used
