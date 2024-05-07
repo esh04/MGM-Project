@@ -16,7 +16,7 @@ This repository contains our replication of the work described in the paper [**V
 - **/overlay**: Contains adapted code to create base and overlay images that can be superimposed to create particular images based on input text prompts.
   - **requirements.txt**: Contains dependencies required to run MGM_Overlay-2.ipynb.
   - **MGM_Overlay-2.ipynb**: General code to make the base and rotator images for overlay.
-
+- **slides.pdf**: PDF of the project slides. (method explained in detail) 
 
 ## Diffusion Models Used
 We used the following diffusion models available in the `diffusers` module from [Hugging Face](https://huggingface.co/):
@@ -38,6 +38,5 @@ Both models are documented in the [AudioLDM2](https://huggingface.co/docs/diffus
 1. Open the respective Jupyter notebook and follow the code instructions.
 2. Modify prompts and settings according to your desired audio or visual outputs.
 3. Ensure you have all required dependencies by checking the import statements in the notebooks.
-
 
 
