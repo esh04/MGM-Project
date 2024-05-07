@@ -5,7 +5,7 @@ This repository contains our replication of the work described in the paper [**V
 ## Folder Structure
 - **Visual-Anagrams.ipynb**: We reimplement the visual anagrams code from the paper. It demonstrates how to generate optical illusions using diffusion models.
   
-- **/audio-illusions**: Contains adapted code to create similar anagrams and illusions but applied to audio and speech specifically:
+- **/audio-illusions**: Contains adapted code to create similar anagrams and illusions but applied to audio, speech specifically:
   - **audio-illusion-low-mem.ipynb**: Low-memory version of the audio anagram code adapted for audio diffusion models. This implementation seeks to adapt the original visual model architecture but highlights challenges when applying it directly to audio.
   - **audio-illusions.ipynb**: General code adapted from the visual anagrams paper to audio diffusion models.
 
