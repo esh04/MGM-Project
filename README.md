@@ -13,7 +13,7 @@ This repository contains our replication of the work described in the paper [**V
 - **speech-text.wav**: Generated audio using the prompt "a female saying the word 'cap.'"
 - **text-speech-cap.wav**: Generated audio using the prompt "a female voice saying the word 'cap' in a clear, neutral tone," also with the negative prompt "low quality."
 
-- **/overlay**:
+- **/overlay**: Contains adapted code to create base and overlay images that can be superimposed to create particular images based on input text prompts.
 
 
 ## Diffusion Models Used
