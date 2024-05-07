@@ -28,7 +28,7 @@ We used the following diffusion models available in the `diffusers` module from 
 - **cvssp/audioldm2**: An audio-text diffusion model for general audio generation.
 - **anhnct/audioldm2_gigaspeech**: An adaptation of the audio-text diffusion model, specialized for speech generation.
 
-Both models are documented in the [AudioLDM2 API](https://huggingface.co/docs/diffusers/main/en/api/pipelines/audioldm2).
+Both models are documented in the [AudioLDM2](https://huggingface.co/docs/diffusers/main/en/api/pipelines/audioldm2).
 
 
 
